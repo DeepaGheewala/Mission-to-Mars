@@ -104,7 +104,7 @@ def scrape_hemisphere_Urls(browser):
 
 ### Results 
 The full resolution Hemispere images are displayed in tiled 
-<p align="center"> <img src="Images/title MArs images.png"  align="center" height="250" width="500"></p>
+<p align="center"> <img src="Images/title MArs images.png"  align="center" height="250" width="300"></p>
 
 ## Delivery 3 - Bootstrap 3 Components
 In order to apply bootstrap changes we have to make changes to the [Index.html](Index.html)
@@ -114,7 +114,7 @@ In order to apply bootstrap changes we have to make changes to the [Index.html](
  <p><a class="btn btn-primary btn-lg active" href="/scrape" role="button">Scrape New Data</a></p>
 ```
 Before and After Images
-<p align="center"> <img src="Images/beforeEditButton.png"  align="center" height="250" width="500"> <img src="Images/afterEditButton.png"  align="center" height="250" width="500"></p>
+<p align="center"> <img src="Images/beforeEditButton.png"  align="center" height="250" width="400"> <img src="Images/afterEditButton.png"  align="center" height="250" width="400"></p>
 
 **2) Making Facts data responsive - This will add the scroll bar so if we resize the browser it doesnt change the position of table, just adds the scroll bar to adjust**
 
@@ -122,7 +122,7 @@ Before and After Images
  <div class="table table-responsive" id="mars-facts" style="overflow-x:auto;" >
 ```
 Before and After Images
-<p align="center"> <img src="Images/beforeEditFactsTable.png"  align="center" height="250" width="500"> <img src="Images/afterEditFactsTable.png"  align="center" height="250" width="500"></p>
+<p align="center"> <img src="Images/beforeEditFactsTable.png"  align="center" height="250" width="300"> <img src="Images/afterEditFactsTable.png"  align="center" height="250" width="300"></p>
 
 **3) Display all the Hemisphere data in single line.**
 
@@ -130,4 +130,4 @@ Before and After Images
   <div class="col-md-3">
 ```
 Before and After Images
-<p align="center"> <img src="Images/mars images in line.png"  align="center" height="250" width="500"> </p>
+<p align="center"> <img src="Images/mars images in line.png"  align="center" height="250" width="600"> </p>
